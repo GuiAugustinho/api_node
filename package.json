@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/GuiNakamuraC/api_node.git"
+    "url": "git+https://github.com/GuiAugustinho/api_node.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/GuiNakamuraC/api_node/issues"
+    "url": "https://github.com/GuiAugustinho/api_node/issues"
   },
-  "homepage": "https://github.com/GuiNakamuraC/api_node#readme",
+  "homepage": "https://github.com/GuiAugustinho/api_node#readme",
   "dependencies": {
     "@prisma/client": "^6.13.0",
     "express": "^5.1.0"
